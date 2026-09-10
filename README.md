@@ -8,7 +8,7 @@
 Suggests nearby points of interest (restaurants, parks, theaters, etc.) based on the user's current location.
 
 ### 2. Weather-based recommendations
-Adapts suggestions to current weather conditions — indoor activities (restaurants, theaters) on rainy days, outdoor activities on sunny days.
+Adapts suggestions to current weather conditions - indoor activities (restaurants, theaters) on rainy days, outdoor activities on sunny days.
 
 ### 3. Favorites
 Users can save points of interest to a favorites list.
